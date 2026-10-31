@@ -18,14 +18,4 @@
 
 <p align="center"><img src="./assets/stack.svg" width="100%" alt="05 — technical stack" /></p>
 
-<p align="center"><img src="./assets/activity.svg" width="100%" alt="06 — activity" /></p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullahelmorshedydev/Abdullahelmorshedydev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullahelmorshedydev/Abdullahelmorshedydev/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abdullahelmorshedydev/Abdullahelmorshedydev/output/github-snake.svg" />
-  </picture>
-</p>
-
 <p align="center"><img src="./assets/footer.svg" width="100%" alt="Status: shipping" /></p>
